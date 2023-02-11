@@ -1,5 +1,5 @@
 {
-    "Medicamentos":[
+    "Medic":[
       {"id":"0","name":"amoxilina", "description":"Su acción consiste en detener el crecimiento de las bacterias. Los antibióticos como la amoxicilina no actúan para combatir resfriados, influenza y otras infecciones virales"},
       {"id":"1","name":"aspirina", "description":"Medicamento que reduce el dolor, la fiebre, la inflamación y la coagulación de la sangre"},
       {"id":"2","name":"diazepam", "description":"Medicamento usado para tratar la ansiedad leve a moderada y la tensión, y para relajar los músculos"},
